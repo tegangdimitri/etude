@@ -3,7 +3,7 @@ int main ()
 {
      int a=0,X=1;
      do{
-                std:: cout <<"Nous vous donnons la possiblite de determiner la surface et la hauteur du triange, du cercle, et du rectangle." << std:: endl;
+                std:: cout <<"Nous vous donnons la possiblite de determiner la surface et le perimetre du triange, du cercle, et du rectangle." << std:: endl;
                 std:: cout <<"Pour le triangle entrer 1\nPour le cercle entrer 2 \nPour le rectangle entre 3" << std :: endl;
                 std:: cin >> a ;
                 if (a==1)
