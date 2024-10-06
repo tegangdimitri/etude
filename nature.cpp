@@ -5,7 +5,7 @@ int main (int argc , char** argv)
     int x;
     do{
         float ab,bc,ac ;
-        std :: cout <<"Nous allons vous aider a determiner la nature d'un triangle\nEntrer le plus long cote du triangle\n ";
+        std :: cout <<"Nous allons vous aider a determiner la nature d'un triangle\nEntrer la valeur d'un cote du triangle\n ";
         std :: cin >> ab ;
         std :: cout <<"Entrer la valeur d'un autre cote du triangle\n";
         std :: cin >> bc ;
